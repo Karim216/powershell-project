@@ -1,0 +1,9 @@
+{
+  "RamWarningThresholdPercent": 80,
+  "DiskWarningThresholdPercent": 85,
+  "PingTarget": "8.8.8.8",
+  "DefaultTechnician": "Support",
+  "DefaultTicketId": "Non-renseigné",
+  "DefaultContext": "Diagnostic standard",
+  "MaxLogFiles": 30
+}
